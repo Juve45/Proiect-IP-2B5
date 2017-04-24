@@ -1,0 +1,3 @@
+n principal, datoriile noastre sunt:
+
+- Pe baza unui punct de plecare si a unei destinatii oferite de modulul 1 (eventual furnizate de utilizator tot prin intermediul unui formular), vom calcula traseul (minim) intre acestea si il vom returna sub forma de lista de repere (cel mai probabil, insa nu stim inca exact cum) modulului 1.
