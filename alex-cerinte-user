@@ -1,3 +1,15 @@
-n principal, datoriile noastre sunt:
+	 Cerintele proiectului
+
+
+Partea noastra de proiect 
+
+In principal, datoriile noastre sunt:
 
 - Pe baza unui punct de plecare si a unei destinatii oferite de modulul 1 (eventual furnizate de utilizator tot prin intermediul unui formular), vom calcula traseul (minim) intre acestea si il vom returna sub forma de lista de repere (cel mai probabil, insa nu stim inca exact cum) modulului 1.
+
+
+
+
+
+
+Ne vom ocupa de cerintele utilizatorului cum ar fi indicarea drumului cel mai scurt intre 2 sali sau indicarea iesirii de urgenta cu drumul cel mai scurt. Vom prelua datele cladirii in formatul stabilit de modulul 1 si le vom prelucra, generand drumurile cele mai scurte, pozitiile fata de iesirea de urgenta, practic vom face requesturi la serverul folorit de  modulul 1.
